@@ -1,0 +1,10 @@
+#READ ONLY FILE
+#By : Arvid Theodorus
+
+Changelog :
+- Mengeluarkan file project dari folder Project 1
+- Biasakan untuk penamaan folder atau file tidak menggunakan spasi, ganti dengan simbol dash ("-") atau underscore ("_")
+- Biasakan 1 folder project besar = 1 repository
+- Biasakan untuk setiap perubahan gunakan command line (git bash) untuk commit dan push perubahannya supaya terlihat perubahannya
+- Push untuk upload perubahan dan pull untuk menarik perubahan terakhir dari repositorynya
+- Git Clone untuk mengkloning project pertama kali di device / laptop baru
